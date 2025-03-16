@@ -72,8 +72,7 @@ Step-by-Step Setup
 
 1️Clone the Repository
 
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone
 
 2️Create a Conda Environment
 
